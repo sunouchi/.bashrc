@@ -1,0 +1,8 @@
+alias la='ls -la'
+alias ll='ls -la'
+alias f='open .'
+alias gb='git branch'
+alias gs='git status'
+alias ga='git add -A .'
+alias pwp='pwd|pbcopy'
+alias rmd='find ./ -name ".DS_Store" -print -exec rm {} ";"'
